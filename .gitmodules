@@ -1,0 +1,3 @@
+[submodule "SumTest"]
+	path = SumTest
+	url = https://github.com/Bukrar/SumTest.git
